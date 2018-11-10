@@ -21,6 +21,8 @@ In addition to being able to run the scripts, the idea is to have knowledge of w
 
 Below I attach some results of the work (plots).
 
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/trayectoriaSAT1.jpg)
+
 ## Authors
 
 - [ClementeSerrano](https://github.com/ClementeSerrano)
