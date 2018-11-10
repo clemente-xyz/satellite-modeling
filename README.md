@@ -19,9 +19,26 @@ In addition to being able to run the scripts, the idea is to have knowledge of w
 
 ### Results
 
+Differential equations system modeled (general):
+
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/generaleq.gif)
+
+Differential equations system modeled (parametrized):
+
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/parametrizedEqn.png)
+
 Below I attach some results of the work (plots).
 
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/dinamica4SAT.jpg)
+
 ![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/trayectoriaSAT1.jpg)
+
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/dinamicaperturbadaSATTOTAL.png)
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/trayectoriaSAT2.jpg)
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/trayectoriaSAT5.jpg)
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/trayectoriaTOT3.jpg)
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/trayectoriaPLANOySATS.jpg)
+![alt text](https://github.com/ClementeSerrano/satellite-modeling/blob/master/motion_graphics/curvaturanoperturbadaSAT1.jpg)
 
 ## Authors
 
